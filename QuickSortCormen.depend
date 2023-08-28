@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658514446 source:c:\users\gugao\documents\c projects\quicksortcormen\main.c
+	<stdio.h>
+	<stdlib.h>
+
